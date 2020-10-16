@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602809576 source:d:\code_blocks\diff_sorting\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+
